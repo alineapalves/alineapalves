@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/alineapalves/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=alineapalves" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alineapalves" />
 </a>
 <a href="https://github.com/alineapalves/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineapalves&layout=compact&langs_count=8&card_width=320" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineapalves&layout=compact&langs_count=8&card_width=320" />
 </a>
