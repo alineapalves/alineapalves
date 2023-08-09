@@ -1,24 +1,13 @@
-### Olá!👋 Eu me chamo Aline.
-
-<!--
-**alineapalves/alineapalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-<a href="https://github.com/alineapalves/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alineapalves" />
-</a>
-<a href="https://github.com/alineapalves/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alineapalves&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&color=0:1A42E0,100:11B1ED&height=300&section=header&animation=twinkling&text=Olá!%20Me%20chamo-nl-Aline%20Alves&fontSize=40&fontColor=fff" />
+
+<div align="center" row=1>
+
+<img width="49%" height= "195px" src="https://github-readme-stats.vercel.app/api?username=alineapalves&show_icons=true&theme=radical&color=fff&bg_color=180deg,1A42E0,117CF7,11B1ED&text_color=fff&hide_border=true"/>
+
+
+<img width="41%" height= "195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineapalves&layout=compact&title_color=fff&bg_color=180deg,1A42E0,117CF7,11B1ED&text_color=fff&hide_border=true"/>
+
+</div>
+
